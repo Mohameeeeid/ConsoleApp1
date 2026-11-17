@@ -224,7 +224,6 @@ Console.WriteLine("Confirmed Name: " + confirmedName);
 
 Console.WriteLine("\n===== ALL QUESTIONS COMPLETED =====");
 
-
 // =============================
 // Book Class
 // =============================
